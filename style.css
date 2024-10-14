@@ -1,0 +1,54 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-div {
+    display: flex;
+}
+
+.left-div {
+    margin-left: 5%;
+}
+
+.right-div {
+    margin-left: 30%;
+}
+
+.photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.my-name {
+    font-weight: bold;
+    height: 30px;
+    font-size: 42px;
+}
+
+.p {
+    font-size: 26px;
+}
+
+.spe-p
+{
+    font-weight:500;
+}
+
+.a-lnk
+{
+    text-decoration: none;
+    color: rgb(7, 110, 219);
+}
+
+.border-div
+{
+    border-bottom: 2px solid black;
+}
